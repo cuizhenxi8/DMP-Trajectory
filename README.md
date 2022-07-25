@@ -13,7 +13,7 @@ The controller algorithm proposed in this paper.
 
 2.semi_circle.mat
 
-The demonstrated semi circle data.
+The demonstrated semi circle trajectory .
 
 3.collision_avoid.m
 
