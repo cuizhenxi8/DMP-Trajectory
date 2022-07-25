@@ -2,8 +2,7 @@
 
 The source code in Matlab for paper:
 
-"Formation Preserved Soft Object Manipulation
-Following Dynamic Movement Primitives Trajectory"
+"Cooperative Manipulation of Soft Objects with Formation Preservation Based on Dynamic Movement Primitives"
 
 
 
